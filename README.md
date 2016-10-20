@@ -20,7 +20,7 @@ da die gekauften nicht so stabil sind.
 https://www.youtube.com/watch?v=dzps5vHUmY0
 
 Der Schaltplan (skizzenhaft)
-
+https://github.com/BKTRIE/muzzel_flash/blob/master/muzzleflash001.png
 
 Die Verkabelung
 
