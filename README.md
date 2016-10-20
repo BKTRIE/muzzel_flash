@@ -19,6 +19,8 @@ Kleiner hinweis: Anstelle der gekauften 9V-Batterie-Clips am besten die DIY-Vari
 da die gekauften nicht so stabil sind.
 https://www.youtube.com/watch?v=dzps5vHUmY0
 
+Zur verkabelung eigenen sich sehr gut alte USB-Kabel.
+
 #Der Schaltplan (skizzenhaft)
 ![Der Schaltplan (skizzenhaft)](https://github.com/BKTRIE/muzzel_flash/blob/master/muzzleflash001.png)
 
@@ -27,3 +29,6 @@ https://www.youtube.com/watch?v=dzps5vHUmY0
 
 #Beispielaufbau
 ![Beispielaufbau](https://github.com/BKTRIE/muzzel_flash/blob/master/muzzleflash003.png)
+
+#Bauteile
+![Bauteile](https://github.com/BKTRIE/muzzel_flash/blob/master/Bauteile.jpg)
