@@ -1,2 +1,28 @@
 # muzzel_flash
 Mündungsfeuer-Simulator für NERF und/oder Softair 
+
+Beim durchfliegen der IR-Lichtschranke wird ein Lichtblitz auf den Neopixel ausgelöst.
+
+Wird die Lichtschranke beim Starte unterbrochen, blitzen die Neopixel im Demomodus auf.
+
+Wird der Zählerstand an abgegebenen Geschossen erreicht, leuchtet eine Warn-LED.
+
+Die Farbe ist im Programm einstellbar.
+
+Bei Problemen mit dem CH340 treibern ggf. hier schauen:
+https://www.jens-bretschneider.de/aktuelle-treiber-fur-seriell-zu-usb-adapter/
+
+Zum Re-Programmieren bitte die ino-Datei mit der Arduino-IDE auf den Chip schreiben.
+https://www.arduino.cc/en/Main/Software
+
+Kleiner hinweis: Anstelle der gekauften 9V-Batterie-Clips am besten die DIY-Variante verwenden,
+da die gekauften nicht so stabil sind.
+https://www.youtube.com/watch?v=dzps5vHUmY0
+
+Der Schaltplan (skizzenhaft)
+
+
+Die Verkabelung
+
+
+Beispielaufbau
